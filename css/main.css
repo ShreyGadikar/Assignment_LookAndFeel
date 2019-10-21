@@ -9,20 +9,19 @@ html {
 
 /*Set background image*/
 .container {
-  background-image: url('https://doc-10-ao-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/r085o9ungppbiokopob2sfbekae4uqbb/1537920000000/14802840322886517493/*/110cT8sl-pOiHGgj9yToPkAqAzrr-RNfb');
-  height: 100%;
-  background-position: center;
-  background-size: cover;
+    background-image: url('http://digitalimagemakerworld.com/images/food-wallpaper/36342701-food-wallpaper.jpg');
+    height: 100%;
+    background-size:auto;
+    background-repeat: no-repeat;
 }
 
 /* Position text in the middle */
 .middle {
-  position: absolute;
-  color: beige;
-  top: 70%;
-  left: 39%;
-  text-align: center;
-  font-size: 25px;
+    position: center;
+    text-align: left;
+    font-size: 25px;
+    color: black;
+    background: rgba(240, 248, 255, 0.75);
 }
 
 /*Set circle in unordered list*/
@@ -45,3 +44,25 @@ html {
   color: red;
   text-decoration: none;
 }
+body{
+    color:black;
+    background-color:aliceblue;
+}
+h1{
+    font-size:60px;
+    color:darkmagenta;
+}
+.bottom {
+    position: absolute;
+    bottom: 10px;
+    font-size
+}
+.bottom a:hover{
+    color:red;
+}
+.top{
+    position:absolute;
+    top: 10px;
+    font-size: 20px;
+}
+
